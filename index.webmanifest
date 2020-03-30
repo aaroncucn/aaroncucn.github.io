@@ -1,0 +1,18 @@
+{
+  "name": "Aaron",
+  "short_name": "Aaron",
+  "lang": "zh-Hans",
+  "theme_color": "#2962ff",
+  "background_color": "#2962ff",
+  "icons": [{
+    "src": "/images/icon_hu9dfa320b57fba53bc2ddb85fd063c097_53100_192x192_fill_lanczos_center_2.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/images/icon_hu9dfa320b57fba53bc2ddb85fd063c097_53100_512x512_fill_lanczos_center_2.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}

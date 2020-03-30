@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>post | Aaron</title>
+    <link>/categories/post/</link>
+      <atom:link href="/categories/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>post</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><lastBuildDate>Mon, 30 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu061cf271d711606abe04315890d833d2_248981_300x300_fit_lanczos_2.png</url>
+      <title>post</title>
+      <link>/categories/post/</link>
+    </image>
+    
+    <item>
+      <title>Windows 10版本</title>
+      <link>/post/windows-10/</link>
+      <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/post/windows-10/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;(business editions) &lt;code&gt;VL版&lt;/code&gt; 与 (consumer editions) &lt;code&gt;零售版&lt;/code&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;!-- more --&gt;
+&lt;h1 id=&#34;vl版与零售版&#34;&gt;&lt;strong&gt;VL版与零售版&lt;/strong&gt;&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;blockquote&gt;
+&lt;p&gt;business_editions 版本IOS镜像包含以下版本：&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;专业版、企业版、教育版、专业工作站版、专业教育版&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;blockquote&gt;
+&lt;p&gt;consumer editions 版本IOS镜像包含以下版本：&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;家庭版、专业版、教育版、家庭单语言版、专业工作站版、专业教育版&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;windows-10-各版本大致区别&#34;&gt;&lt;strong&gt;Windows 10 各版本大致区别&lt;/strong&gt;&lt;/h1&gt;
+&lt;h2 id=&#34;家庭版home&#34;&gt;家庭版(Home)：&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;供家庭用户使用，无法加入&lt;code&gt;Active Directory&lt;/code&gt;和&lt;code&gt;Azure AD&lt;/code&gt;，不允许&lt;code&gt;远程链接&lt;/code&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;专业版professional&#34;&gt;专业版(Professional)：&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;供小型企业使用 在家庭版基础上增加了&lt;code&gt;域账号加入&lt;/code&gt;、&lt;code&gt;bitlocker&lt;/code&gt;、&lt;code&gt;企业商店&lt;/code&gt;等功能。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;企业版enterprise&#34;&gt;企业版(Enterprise)：&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;供中大型企业使用 在专业版基础上增加了&lt;code&gt;DirectAccess&lt;/code&gt;，&lt;code&gt;AppLocker&lt;/code&gt;等高级企业功能。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;教育版education&#34;&gt;教育版(Education)：&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;供学校使用 (学校职员, 管理人员, 老师和学生) 其功能基本和&lt;code&gt;企业版&lt;/code&gt;的一样。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;ltsb版&#34;&gt;LTSB版：&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;无&lt;code&gt;Edge浏览器&lt;/code&gt;、无&lt;code&gt;小娜&lt;/code&gt;，无&lt;code&gt;磁贴&lt;/code&gt;，可选&lt;code&gt;是否下载和安装补丁&lt;/code&gt;，其它版都不能自选补丁。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;n版&#34;&gt;N版：&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;带“N”的版本相当于&lt;code&gt;阉割版&lt;/code&gt;，移除了&lt;code&gt;Windows Media Player&lt;/code&gt;，几乎用不到N版。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;win10各版本详细区别&#34;&gt;&lt;strong&gt;Win10各版本详细区别&lt;/strong&gt;&lt;/h1&gt;
+&lt;h2 id=&#34;windows-10-企业版和教育版功能一样功能最完整版本&#34;&gt;Windows 10 企业版（和教育版功能一样，功能最完整版本）&lt;/h2&gt;
+&lt;h2 id=&#34;1核心功能&#34;&gt;&lt;strong&gt;1、核心功能&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;熟悉，更好用：自定义开始菜单，Windows Defender 与Windows防火墙，Hiberboot与InstantGo，系统启动更快速，TPM支持，节电模式，Windows更新。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Cortana小娜：更自然的语音和按键输入，主动、个性化建议，提醒，从网络、本地以及云中搜索，无需动手，直接喊出“你好，小娜”即可激活。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Windows Hello：指纹识别，面部和虹膜识别，企业级安全。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;多任务操作：虚拟桌面，Snap协同（同一屏幕最多支持显示4个应用），跨不同显示器的Snap功能支持。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Microsoft Edge：阅读视图，内置墨水书写支持，整合Cortana小娜。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2企业特性&#34;&gt;&lt;strong&gt;2、企业特性&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;基础功能：设备加密，加入域功能，组策略管理器，Bitlocker&lt;code&gt;加密&lt;/code&gt;，企业模式Internet Explorer浏览器（&lt;code&gt;EMIE&lt;/code&gt;），Assigned Access 8.1（&lt;code&gt;访问分配&lt;/code&gt;），远程桌面，Direct Access（&lt;code&gt;直接访问&lt;/code&gt;），Windows To Go&lt;code&gt;创建工具&lt;/code&gt;，Applocker（&lt;code&gt;应用程序锁定&lt;/code&gt;），BranchCache（&lt;code&gt;分支缓存&lt;/code&gt;），可通过组策略控制的开始屏幕。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;管理部署功能：企业应用旁加载功能，移动设备管理，可加入到Azure活动目录，单点登录到云托管应用，Win10企业商店，粒度UX控制，可轻松从专业版升级到企业版。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;安全：Microsoft Passport登录，企业数据保护，凭据保护，设备保护。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Windows即服务：Windows更新，Windows Update for Business，Current Branch for Business（用于企业的当前更新分支）。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;windows-10-教育版&#34;&gt;Windows 10 教育版&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;与企业板功能一致，授权方式不同，可轻松从&lt;code&gt;家庭版&lt;/code&gt;升级到&lt;code&gt;教育版&lt;/code&gt;，（经过测试&lt;code&gt;专业版&lt;/code&gt;也可以通过输入&lt;code&gt;教育版key&lt;/code&gt;升级到&lt;code&gt;教育版&lt;/code&gt;）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;windows-10-专业版&#34;&gt;Windows 10 专业版&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;与企业版对比【无】以下功能：&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;基础功能：Direct Access（&lt;code&gt;直接访问&lt;/code&gt;），Windows To Go&lt;code&gt;创建工具&lt;/code&gt;，Applocker（&lt;code&gt;应用程序锁定&lt;/code&gt;），BranchCache（&lt;code&gt;分支缓存&lt;/code&gt;），可通过组策略控制的开始屏幕。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;管理部署功能：粒度UX控制。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;安全：凭据保护，设备保护。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;windows-10-家庭版&#34;&gt;Windows 10 家庭版&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;与专业版对比【无】以下功能：&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;基础功能：加入域功能，组策略管理器，Bitlocker&lt;code&gt;加密&lt;/code&gt;，企业模式Internet Explorer浏览器（&lt;code&gt;EMIE&lt;/code&gt;），Assigned Access 8.1（&lt;code&gt;访问分配&lt;/code&gt;），远程桌面，Direct Access（&lt;code&gt;直接访问&lt;/code&gt;），Windows To Go&lt;code&gt;创建工具&lt;/code&gt;，Applocker（&lt;code&gt;应用程序锁定&lt;/code&gt;），BranchCache（&lt;code&gt;分支缓存&lt;/code&gt;），可通过组策略控制的开始屏幕。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;管理部署功能：可加入到Azure活动目录，单点登录到云托管应用，Win10企业商店，粒度UX控制，可轻松从&lt;code&gt;专业版&lt;/code&gt;升级到&lt;code&gt;企业版&lt;/code&gt;。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;安全：企业数据保护，凭据保护，设备保护。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;indows即服务：Windows Update for Business，Current Branch for Business（用于企业的当前更新分支）。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Windows 10 企业版长期服务分支2015 LTSB
+与企业版功能&lt;code&gt;一致&lt;/code&gt;，可&lt;code&gt;手动设置更新服务&lt;/code&gt;，无&lt;code&gt;Edge浏览器&lt;/code&gt;，&lt;code&gt;无商店&lt;/code&gt;。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;可以根据自己的需要自行选择版本&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

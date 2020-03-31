@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Aaron</title>
-    <link>/project/</link>
-      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
-    <description>Projects</description>
+    <title>test | Aaron</title>
+    <link>/tags/test/</link>
+      <atom:link href="/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    <description>test</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><lastBuildDate>Tue, 31 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hu061cf271d711606abe04315890d833d2_248981_300x300_fit_lanczos_2.png</url>
-      <title>Projects</title>
-      <link>/project/</link>
+      <title>test</title>
+      <link>/tags/test/</link>
     </image>
     
     <item>
